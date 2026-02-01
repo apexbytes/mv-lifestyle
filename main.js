@@ -5,28 +5,28 @@ const testimonials = [
         role: "CEO, TechVision Inc.",
         quote: "Working with this digital agency transformed our online presence. Their team's dedication and innovative approach helped us achieve 200% growth in just 6 months.",
         rating: 4.5,
-        image: "/partners/client.png"
+        image: "partners/client.png"
     },
     {
         name: "Michael Rodriguez",
         role: "Marketing Director, BrandBoost",
         quote: "The SEO consultancy service was exceptional! Our organic traffic increased by 150% and we're now ranking on the first page for all our target keywords.",
         rating: 5.0,
-        image: "/partners/3e463251-58fe-468d-bd5d-ab3964f6d96e.png"
+        image: "partners/3e463251-58fe-468d-bd5d-ab3964f6d96e.png"
     },
     {
         name: "Sarah Johnson",
         role: "Founder, EcoLiving",
         quote: "The interface design team created a stunning website that perfectly represents our brand. User engagement has tripled since the redesign.",
         rating: 4.8,
-        image: "/partners/e96f17b6-8021-4a45-a790-1cec2ca565a9.png"
+        image: "partners/e96f17b6-8021-4a45-a790-1cec2ca565a9.png"
     },
     {
         name: "Alisha Chen",
         role: "CTO, FinTech Solutions",
         quote: "Their digital marketing training empowered our team with skills we use every day. The ROI was evident within the first quarter.",
         rating: 4.7,
-        image: "/partners/client.png"
+        image: "partners/client.png"
     }
 ];
 
